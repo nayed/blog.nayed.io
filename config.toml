@@ -1,0 +1,28 @@
+baseURL = "https://blog.nayed.io"
+languageCode = "en-us"
+title = "Nayed | Blog"
+theme = "hucore"
+copyright = "&copy; 2017 | Nayed Saïd Ali"
+
+[Params]
+# description = "Your description here"
+keywords = []
+author = "Nayed Saïd Ali"
+sharingicons = false
+displayauthor = false
+
+[Params.highlight]
+style = "solarized-light"
+languages = ["elixir", "javascript"]
+
+[[Params.social]]
+url = "https://github.com/nayed"
+fa_icon = "fa-github"
+
+[[Params.social]]
+url = "https://twitter.com/NayedSA"
+fa_icon = "fa-twitter"
+
+[[Params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
