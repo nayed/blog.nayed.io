@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Nayed | Blog"
 theme = "hucore"
 copyright = "&copy; 2017 | Nayed Saïd Ali"
+googleAnalytics = "UA-54444877-2"
 
 [Params]
 # description = "Your description here"
