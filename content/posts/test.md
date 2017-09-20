@@ -7,6 +7,7 @@ hi
 ```elixir
 def hello
   IO.puts "hi"
+  IO.puts "another one"
 end
 ```
 
