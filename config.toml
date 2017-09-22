@@ -11,6 +11,7 @@ keywords = []
 author = "Nayed Saïd Ali"
 sharingicons = false
 displayauthor = false
+googleMapsEmbedAPIKey="AIzaSyD0u7xYpIfTlw_GFw8aLLcFnP8j2sitg9Y"
 
 [Params.highlight]
 style = "solarized-light"
