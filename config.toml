@@ -5,9 +5,6 @@ theme = "hucore"
 copyright = "&copy; 2017 | Nayed Saïd Ali"
 googleAnalytics = "UA-54444877-2"
 
-[permalinks]
-  posts = "/:year/:month/:title/"
-
 [Params]
 description = "Blog of twenty-something who thinks he know shit: Nayed Saïd Ali"
 keywords = []
